@@ -1,4 +1,4 @@
-(function() {
+function() {
   // Remove existing instances
   const existing = document.getElementById('cr4bz-blooket-cheat');
   if (existing) existing.remove();
